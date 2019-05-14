@@ -4,8 +4,11 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/Shivam%20Agarwal/Documents/NetBeansProjects/FFastEE/FFastEE-war/web/index.html</file>
+            <file>file:/C:/Users/Shivam%20Agarwal/Documents/NetBeansProjects/FFastEE/FFastEE-war/src/java/com/ffast/servlet/User.java</file>
             <file>file:/C:/Users/Shivam%20Agarwal/Documents/NetBeansProjects/FFastEE/FFastEE-war/src/java/com/ffast/servlet/Login.java</file>
             <file>file:/C:/Users/Shivam%20Agarwal/Documents/NetBeansProjects/FFastEE/FFastEE-war/web/Home.html</file>
+            <file>file:/C:/Users/Shivam%20Agarwal/Documents/NetBeansProjects/FFastEE/FFastEE-war/src/java/com/ffast/servlet/NewUser.java</file>
+            <file>file:/C:/Users/Shivam%20Agarwal/Documents/NetBeansProjects/FFastEE/FFastEE-war/web/Js/Home.js</file>
         </group>
     </open-files>
 </project-private>
